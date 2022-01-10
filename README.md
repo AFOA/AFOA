@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AFOA
-- 🌱 I’m currently learning JS, Powershell and Java.
 - 💞️ I’m looking to collaborate on anything!
 
 <!---
